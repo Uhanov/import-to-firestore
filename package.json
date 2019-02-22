@@ -1,0 +1,21 @@
+{
+  "name": "import-to-firestore",
+  "version": "1.0.0",
+  "description": "This script is to upload some data to the Firestore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firestore",
+    "import",
+    "yaml",
+    "json"
+  ],
+  "author": "uhanov",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^7.0.0",
+    "js-yaml": "^3.12.1"
+  }
+}
