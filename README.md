@@ -4,7 +4,7 @@ This script is to upload some data to the Firestore. It supports JSON and YAML f
 ### How to install
 Clone this repository:
 ```
-git clone url
+git clone https://bitbucket.org/Uhanov/import-to-firestore.git
 ```
 
 ### How to start
